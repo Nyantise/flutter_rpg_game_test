@@ -1,6 +1,6 @@
-# rpg_ddr
+# Deldora RPG
 
-A new Flutter project.
+This is a little game test i'm making using flutter without any game dependencies or engines for dart/flutter like [Flame](https://pub.dev/packages/flame) or [Forge2D](https://pub.dev/packages/forge2d)
 
 ## Getting Started
 
